@@ -1,0 +1,19 @@
+{
+  "name": "droptableproxyserver",
+  "version": "1.0.0",
+  "description": "proxy server for DropTable restaurant page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JISHAX/proxyServerAaron.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JISHAX/proxyServerAaron/issues"
+  },
+  "homepage": "https://github.com/JISHAX/proxyServerAaron#readme"
+}
