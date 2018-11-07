@@ -1,0 +1,22 @@
+body {
+  margin-left: 50px;
+  width: 90%;
+}
+
+#gallery-container {
+  margin-left: 20px;
+}
+
+#menu {
+  margin-left: 20px;
+}
+
+#reservation {
+  position: absolute;
+  top: 10px;
+  z-index: 0;
+}
+
+#overview {
+  z-index: 1;
+}
